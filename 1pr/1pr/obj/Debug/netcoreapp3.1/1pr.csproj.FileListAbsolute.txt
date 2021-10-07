@@ -1,0 +1,14 @@
+F:\Навчання\С#\1pr\1pr\bin\Debug\netcoreapp3.1\1pr.exe
+F:\Навчання\С#\1pr\1pr\bin\Debug\netcoreapp3.1\1pr.deps.json
+F:\Навчання\С#\1pr\1pr\bin\Debug\netcoreapp3.1\1pr.runtimeconfig.json
+F:\Навчання\С#\1pr\1pr\bin\Debug\netcoreapp3.1\1pr.runtimeconfig.dev.json
+F:\Навчання\С#\1pr\1pr\bin\Debug\netcoreapp3.1\1pr.dll
+F:\Навчання\С#\1pr\1pr\bin\Debug\netcoreapp3.1\1pr.pdb
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.csproj.AssemblyReference.cache
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.GeneratedMSBuildEditorConfig.editorconfig
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.AssemblyInfoInputs.cache
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.AssemblyInfo.cs
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.csproj.CoreCompileInputs.cache
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.dll
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.pdb
+F:\Навчання\С#\1pr\1pr\obj\Debug\netcoreapp3.1\1pr.genruntimeconfig.cache
