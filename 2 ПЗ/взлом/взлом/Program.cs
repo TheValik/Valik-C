@@ -16,17 +16,18 @@ namespace Пр2
             string slov = "Mit21";
             int lich = 1;
             int stop = 0;
+            int k = 0;
 
             var password = new StringBuilder(5);
-            for(char a = '!'; a < '~'; a++)
+            for(char a = 'd'; a <= '~'; a++)
             {
-                for(char b = '!'; b < '~'; b++)
+                for(char b = '!'; b <= '~'; b++)
                 {
-                    for(char c='!'; c < '~'; c++)
+                    for(char c='!'; c <= '~'; c++)
                     {
-                        for(char d = '!'; d < '~'; d++)
+                        for(char d = '!'; d <= '~'; d++)
                         {
-                            for(char e = '!'; e < '~'; e++)
+                            for(char e = '!'; e <= '~'; e++)
                             {
                                 password.Clear();
 
@@ -48,12 +49,28 @@ namespace Пр2
                                             {
                                                 lich++;
                                             }
-                                            //умова виходу
+
+
+                                                //умова виходу
                                             if (lich == 5)
                                             {
+                                                Console.WriteLine(password);
                                                 Console.WriteLine("gotovo");
-                                                stop = 1;
+                                                for (int p = 0; p < text.Length; p++)
+                                                {
+                                                    Console.Write((char)(byte)(text[p] ^ password[k]));
+                                                    k++;
+                                                    if (k > 4)
+                                                    {
+                                                        k = 0;
+                                                    }
+                                                }
+                                                k = 0;
+                                                Console.WriteLine("");
+                                                Console.WriteLine("--------------------------");
+                                                // stop = 1;
                                             }
+
                                         }
                                         //Скидання лічильника
                                         lich = 1;
@@ -84,7 +101,7 @@ namespace Пр2
                         break;
                     }
                 }
-                Console.WriteLine("a= " + a);
+                Console.WriteLine("Алгоритм пройшов ключ який починається на --  " + a);
                 if (stop == 1)
                 {
                     break;
@@ -92,16 +109,6 @@ namespace Пр2
             }
             Console.WriteLine(password);
 
-            int k = 0;
-           for(int i = 0; i < text.Length; i++)
-            {
-                Console.Write((char)(byte)(text[i] ^ password[k]));
-                k++;
-                if (k > 4)
-                {
-                    k = 0;
-                }
-            }
  
 
 

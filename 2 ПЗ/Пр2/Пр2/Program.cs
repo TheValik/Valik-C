@@ -19,7 +19,7 @@ namespace Пр2
             byte[] arr2 = new byte[3];
             Console.WriteLine("-------------");
             //виведення елементів тексту
-            Console.WriteLine("Не зашифрований текст");
+            Console.WriteLine("Текст з незашифрованого файлу");
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine((char)decData[i]);
