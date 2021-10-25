@@ -1,0 +1,14 @@
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\bin\Debug\netcoreapp3.1\Завдання 2.exe
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\bin\Debug\netcoreapp3.1\Завдання 2.deps.json
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\bin\Debug\netcoreapp3.1\Завдання 2.runtimeconfig.json
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\bin\Debug\netcoreapp3.1\Завдання 2.runtimeconfig.dev.json
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\bin\Debug\netcoreapp3.1\Завдання 2.dll
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\bin\Debug\netcoreapp3.1\Завдання 2.pdb
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.csproj.AssemblyReference.cache
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.AssemblyInfoInputs.cache
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.AssemblyInfo.cs
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.csproj.CoreCompileInputs.cache
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.dll
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.pdb
+F:\Навчання\С#\3 ПЗ\ПЗ 3\Завдання 2\obj\Debug\netcoreapp3.1\Завдання 2.genruntimeconfig.cache
