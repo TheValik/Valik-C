@@ -21,8 +21,6 @@ namespace Завдання_4
             List <string> logins = new List<string>();
             List<string> passwords = new List<string>();
 
-
-
             Console.WriteLine("Реєстрацiя аккаунтiв");
             bool b = true;
             string um;
@@ -36,7 +34,7 @@ namespace Завдання_4
                 passwords.Add(Convert.ToBase64String(ComputeHashSha256(Encoding.Unicode.GetBytes(Console.ReadLine()))));
 
 
-                Console.Write("Введiть '+' для реєстації ще одного аккаунту, введіть '-' для припинення реєстрації : ");
+                Console.Write("Введiть '+' для реєстацiї ще одного аккаунту, введiть '-' для припинення реєстрацiї : ");
                 um = Console.ReadLine();
 
                 if (um != "+" && um != "-")

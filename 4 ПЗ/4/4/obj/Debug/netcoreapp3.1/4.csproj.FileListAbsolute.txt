@@ -1,0 +1,13 @@
+F:\Навчання\С#\4 ПЗ\4\4\bin\Debug\netcoreapp3.1\4.exe
+F:\Навчання\С#\4 ПЗ\4\4\bin\Debug\netcoreapp3.1\4.deps.json
+F:\Навчання\С#\4 ПЗ\4\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.json
+F:\Навчання\С#\4 ПЗ\4\4\bin\Debug\netcoreapp3.1\4.runtimeconfig.dev.json
+F:\Навчання\С#\4 ПЗ\4\4\bin\Debug\netcoreapp3.1\4.dll
+F:\Навчання\С#\4 ПЗ\4\4\bin\Debug\netcoreapp3.1\4.pdb
+F:\Навчання\С#\4 ПЗ\4\4\obj\Debug\netcoreapp3.1\4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Навчання\С#\4 ПЗ\4\4\obj\Debug\netcoreapp3.1\4.AssemblyInfoInputs.cache
+F:\Навчання\С#\4 ПЗ\4\4\obj\Debug\netcoreapp3.1\4.AssemblyInfo.cs
+F:\Навчання\С#\4 ПЗ\4\4\obj\Debug\netcoreapp3.1\4.csproj.CoreCompileInputs.cache
+F:\Навчання\С#\4 ПЗ\4\4\obj\Debug\netcoreapp3.1\4.dll
+F:\Навчання\С#\4 ПЗ\4\4\obj\Debug\netcoreapp3.1\4.pdb
+F:\Навчання\С#\4 ПЗ\4\4\obj\Debug\netcoreapp3.1\4.genruntimeconfig.cache

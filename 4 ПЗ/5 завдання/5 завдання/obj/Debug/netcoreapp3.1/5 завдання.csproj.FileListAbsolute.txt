@@ -1,0 +1,14 @@
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\bin\Debug\netcoreapp3.1\5 завдання.exe
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\bin\Debug\netcoreapp3.1\5 завдання.deps.json
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\bin\Debug\netcoreapp3.1\5 завдання.runtimeconfig.json
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\bin\Debug\netcoreapp3.1\5 завдання.runtimeconfig.dev.json
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\bin\Debug\netcoreapp3.1\5 завдання.dll
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\bin\Debug\netcoreapp3.1\5 завдання.pdb
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.csproj.AssemblyReference.cache
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.GeneratedMSBuildEditorConfig.editorconfig
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.AssemblyInfoInputs.cache
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.AssemblyInfo.cs
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.csproj.CoreCompileInputs.cache
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.dll
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.pdb
+F:\Навчання\С#\4 ПЗ\5 завдання\5 завдання\obj\Debug\netcoreapp3.1\5 завдання.genruntimeconfig.cache
