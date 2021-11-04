@@ -6,29 +6,28 @@ using System.Collections.Generic;
 namespace Завдання_4
 {
 
-    public class SaltedHash
+    public class PBKDF2
     {
         public static byte[] GenerateSalt()
         {
-            const int saltLength = 32;
             using (var randomNumberGenerator = new RNGCryptoServiceProvider())
             {
-                var randomNumber = new byte[saltLength];
+                var randomNumber = new byte[32];
                 randomNumberGenerator.GetBytes(randomNumber);
                 return randomNumber;
+            }
+        }
+        public static byte[] HashPassword(byte[] toBeHashed, byte[] salt, int numberOfRounds, System.Security.Cryptography.HashAlgorithmName hashAlgorithm, Int32 NumberOfBytes)
+        {
+            using (var rfc2898 = new Rfc2898DeriveBytes(toBeHashed, salt, numberOfRounds, hashAlgorithm))
+            {
+                return rfc2898.GetBytes(NumberOfBytes);
             }
         }
     }
 
         class Program
     {
-        public static byte[] ComputeHashSha256(byte[] toBeHashed)
-        {
-            using (var sha256 = SHA256.Create())
-            {
-                return sha256.ComputeHash(toBeHashed);
-            }
-        }
 
         static void Main(string[] args)
         {
@@ -41,7 +40,6 @@ namespace Завдання_4
             bool b = true;
             string um;
             string name;
-            string memPass="a";
             string memPass2;
             Console.Write("Введiть логiн: ");
             logins.Add(Console.ReadLine());
@@ -51,12 +49,13 @@ namespace Завдання_4
                 Console.Write("Введiть пароль: ");
 
 
-                var MemSalt = SaltedHash.GenerateSalt();
+                var MemSalt = PBKDF2.GenerateSalt();
                 salt.Add(Convert.ToBase64String(MemSalt));
 
                 // збереження шешованого паролю з сіллю
-                memPass = Console.ReadLine();
-                passwords.Add(Convert.ToBase64String(ComputeHashSha256(Encoding.Unicode.GetBytes(memPass+MemSalt))));
+                var memPass = Console.ReadLine();
+                passwords.Add(Convert.ToBase64String(PBKDF2.HashPassword(Encoding.Unicode.GetBytes(memPass), MemSalt, 110000, HashAlgorithmName.SHA256, 32)));
+                //passwords.Add(Convert.ToBase64String(ComputeHashSha256(Encoding.Unicode.GetBytes(memPass+MemSalt))));
 
                 Console.Write("Введiть '+' для реєстацiї ще одного аккаунту, введiть '-' для припинення реєстрацiї : ");
                 um = Console.ReadLine();
@@ -111,7 +110,8 @@ namespace Завдання_4
                         ID = logins.IndexOf(log);
                         Console.Write("Введiть пароль: ");
                         memPass2 = Console.ReadLine();
-                        pass = Convert.ToBase64String(ComputeHashSha256(Encoding.Unicode.GetBytes(memPass2+Convert.FromBase64String( salt[ID]))));
+                        pass = Convert.ToBase64String( PBKDF2.HashPassword(Encoding.Unicode.GetBytes(memPass2), Convert.FromBase64String(salt[ID]), 110000, HashAlgorithmName.SHA256, 32));
+                        
                         if (passwords[ID] == pass)
                         {
                             Console.WriteLine("Ви авторизувались");
@@ -131,8 +131,6 @@ namespace Завдання_4
                     log = Console.ReadLine();
                 }
             }
-
-
 
         }
     }
