@@ -80,13 +80,14 @@ namespace Пз_6
         {
 
             const string original = "Text to encrypt";
-            var key = PBKDF2.HashPassword(Encoding.UTF8.GetBytes(original), PBKDF2.GenerateSalt(), 110000, HashAlgorithmName.SHA256, 32);
-            var iv = PBKDF2.HashPassword(Encoding.UTF8.GetBytes(original), PBKDF2.GenerateSalt(), 110000, HashAlgorithmName.SHA256, 16);
+            Console.WriteLine("Введiть пароль для шифрування");
+            var pas = Console.ReadLine();
+            var key = PBKDF2.HashPassword(Encoding.UTF8.GetBytes(pas), PBKDF2.GenerateSalt(), 110000, HashAlgorithmName.SHA256, 32);
+            var iv = PBKDF2.HashPassword(Encoding.UTF8.GetBytes(pas), PBKDF2.GenerateSalt(), 110000, HashAlgorithmName.SHA256, 16);
 
             var encrypted = aesChipher.Encrypt(Encoding.UTF8.GetBytes(original), key, iv);
             var decrypted = aesChipher.Decrypt(encrypted, key, iv);
             var decryptedMessage = Encoding.UTF8.GetString(decrypted);
-            Console.WriteLine("AES Encryption + Random Generated key and iv");
             Console.WriteLine("----------------------");
             Console.WriteLine();
             Console.WriteLine("Original Text = " + original);

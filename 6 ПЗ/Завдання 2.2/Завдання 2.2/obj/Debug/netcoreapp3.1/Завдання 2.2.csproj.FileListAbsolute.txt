@@ -11,3 +11,4 @@ F:\Навчання\С#\6 ПЗ\Завдання 2.2\Завдання 2.2\obj\Deb
 F:\Навчання\С#\6 ПЗ\Завдання 2.2\Завдання 2.2\obj\Debug\netcoreapp3.1\Завдання 2.2.dll
 F:\Навчання\С#\6 ПЗ\Завдання 2.2\Завдання 2.2\obj\Debug\netcoreapp3.1\Завдання 2.2.pdb
 F:\Навчання\С#\6 ПЗ\Завдання 2.2\Завдання 2.2\obj\Debug\netcoreapp3.1\Завдання 2.2.genruntimeconfig.cache
+F:\Навчання\С#\6 ПЗ\Завдання 2.2\Завдання 2.2\obj\Debug\netcoreapp3.1\Завдання 2.2.csproj.AssemblyReference.cache
