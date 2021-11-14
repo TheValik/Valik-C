@@ -1,0 +1,14 @@
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\bin\Debug\netcoreapp3.1\zavd_2.exe
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\bin\Debug\netcoreapp3.1\zavd_2.deps.json
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\bin\Debug\netcoreapp3.1\zavd_2.runtimeconfig.json
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\bin\Debug\netcoreapp3.1\zavd_2.runtimeconfig.dev.json
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\bin\Debug\netcoreapp3.1\zavd_2.dll
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\bin\Debug\netcoreapp3.1\zavd_2.pdb
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.csproj.AssemblyReference.cache
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.AssemblyInfoInputs.cache
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.AssemblyInfo.cs
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.csproj.CoreCompileInputs.cache
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.dll
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.pdb
+F:\Навчання\С#\6 ПЗ\ПЗ№7\zavd_2\obj\Debug\netcoreapp3.1\zavd_2.genruntimeconfig.cache

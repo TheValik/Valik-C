@@ -1,0 +1,14 @@
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\bin\Debug\netcoreapp3.1\ПЗ№7.exe
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\bin\Debug\netcoreapp3.1\ПЗ№7.deps.json
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\bin\Debug\netcoreapp3.1\ПЗ№7.runtimeconfig.json
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\bin\Debug\netcoreapp3.1\ПЗ№7.runtimeconfig.dev.json
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\bin\Debug\netcoreapp3.1\ПЗ№7.dll
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\bin\Debug\netcoreapp3.1\ПЗ№7.pdb
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.csproj.AssemblyReference.cache
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.AssemblyInfoInputs.cache
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.AssemblyInfo.cs
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.csproj.CoreCompileInputs.cache
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.dll
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.pdb
+F:\Навчання\С#\6 ПЗ\ПЗ№7\ПЗ№7\obj\Debug\netcoreapp3.1\ПЗ№7.genruntimeconfig.cache
