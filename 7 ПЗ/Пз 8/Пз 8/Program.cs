@@ -75,7 +75,7 @@ namespace ПЗ_7
 
             //Шлях до зашифрованих файлів
             string MyFile = "F:/Навчання/С#/7 ПЗ/File_to_decr/EncrByteText.dat";
-            string BorysenkoFile = "F:/Навчання/С#/7 ПЗ/File_to_decr/MyMessage(maks).dat";
+            string BorysenkoFile = "F:/Навчання/С#/7 ПЗ/File_to_decr/NewMyMessage(maks).dat";
             string BolshakovArtemFile = "F:/Навчання/С#/7 ПЗ/File_to_decr/encryptMessageBArtem.dat";
 
 
@@ -87,7 +87,7 @@ namespace ПЗ_7
 
 
             // Розшифрування отриманих файлів
-            var EncrFile = File.ReadAllBytes(BolshakovArtemFile);
+            var EncrFile = File.ReadAllBytes(BorysenkoFile);
             var DecrFile = RSAWithRSAParameterKey.DecryptData(EncrFile);
 
 
