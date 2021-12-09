@@ -1,0 +1,14 @@
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\bin\Debug\netcoreapp3.1\PZ11_12.exe
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\bin\Debug\netcoreapp3.1\PZ11_12.deps.json
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\bin\Debug\netcoreapp3.1\PZ11_12.runtimeconfig.json
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\bin\Debug\netcoreapp3.1\PZ11_12.runtimeconfig.dev.json
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\bin\Debug\netcoreapp3.1\PZ11_12.dll
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\bin\Debug\netcoreapp3.1\PZ11_12.pdb
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.csproj.AssemblyReference.cache
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.GeneratedMSBuildEditorConfig.editorconfig
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.AssemblyInfoInputs.cache
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.AssemblyInfo.cs
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.csproj.CoreCompileInputs.cache
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.dll
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.pdb
+F:\Навчання\С#\9 ПЗ\PZ11_12\PZ11_12\obj\Debug\netcoreapp3.1\PZ11_12.genruntimeconfig.cache
