@@ -1,0 +1,3 @@
+2021-12-11 17:29:33.8553|Error|Input string was not in a correct format.|Pz13_14.Program+Protector.Main|Проблема при введеннi кiлькостi ролей
+2021-12-11 17:30:06.5471|Warn||Pz13_14.Program+Protector.CheckPassword|Невiрний пароль. Пароль у словнику = cNO1fSLboLgr/+9Sp9mhEuu/paVmtWrhkDqMz7z6bYE= . Пароль введений користувачем = 3P0hVLESB6BpSTcNTGWz29pAoE6vWaDnariPDWdI9oU=
+2021-12-11 17:30:06.5471|Fatal||Pz13_14.Program+Protector.OnlyForAdminsFeature|Thread.CurrentPrincipal cannot be null.
